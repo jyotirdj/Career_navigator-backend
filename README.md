@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Career Navigator Backend API
 
 A REST API backend built with FastAPI to help engineering students plan their learning journey from 1st year to final year based on their branch, current year, and career goals.
@@ -181,3 +182,6 @@ You can modify the script to add more roadmaps or customize existing ones.
 
 MIT
 
+=======
+# Career_navogator-backend
+>>>>>>> f899b77a3f28e86eefd26fd4eae841a196fc12c8
